@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-| General Stats | Most Used Languages |
-| ---- | ---- |
-|[![Stats-Dark](https://github-readme-stats.vercel.app/api?username=UplandJacob&show_icons=true&theme=dark&border_radius=10&bg_color=DEG,10381a,1a2510&ring_color=ebebeb&text_color=bbb&border_color=1a2510&hide_title=true#gh-dark-mode-only)](https://github.com/UplandJacob#gh-dark-mode-only)[![Stats-Light](https://github-readme-stats.vercel.app/api?username=UplandJacob&show_icons=true&border_radius=10&bg_color=DEG,8de78b,6dae6a&ring_color=5b5b5b&hide_title=true#gh-light-mode-only)](https://github.com/UplandJacob#gh-light-mode-only)|[![Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=UplandJacob&theme=dark&layout=compact&langs_count=10&border_radius=10&bg_color=DEG,10381a,1a2510&text_color=bbb&border_color=1a2510&hide_title=true#gh-dark-mode-only)](https://github.com/UplandJacob#gh-dark-mode-only)[![Stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=UplandJacob&layout=compact&langs_count=10&border_radius=10&bg_color=DEG,8de78b,6dae6a&hide_title=true#gh-light-mode-only)](https://github.com/UplandJacob#gh-light-mode-only)|
-
+| General Stats | Most Used Languages | Streak |
+| ---- | ---- | ---- |
+| [![Stats-Dark](https://github-readme-stats.vercel.app/api?username=UplandJacob&show_icons=true&theme=dark&border_radius=10&bg_color=DEG,10381a,1a2510&ring_color=ebebeb&text_color=bbb&border_color=1a2510&hide_title=true#gh-dark-mode-only)](https://github.com/UplandJacob#gh-dark-mode-only)[![Stats-Light](https://github-readme-stats.vercel.app/api?username=UplandJacob&show_icons=true&border_radius=10&bg_color=DEG,8de78b,6dae6a&ring_color=5b5b5b&hide_title=true#gh-light-mode-only)](https://github.com/UplandJacob#gh-light-mode-only) | [![Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=UplandJacob&theme=dark&layout=compact&langs_count=10&border_radius=10&bg_color=DEG,10381a,1a2510&text_color=bbb&border_color=1a2510&hide_title=true#gh-dark-mode-only)](https://github.com/UplandJacob#gh-dark-mode-only)[![Stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=UplandJacob&layout=compact&langs_count=10&border_radius=10&bg_color=DEG,8de78b,6dae6a&hide_title=true#gh-light-mode-only)](https://github.com/UplandJacob#gh-light-mode-only) | [![GitHub Streak](https://streak-stats.demolab.com/?user=UplandJacob&theme=solarized-dark)](https://git.io/streak-stats) |
 <!--
 
 Here are some ideas to get you started:
