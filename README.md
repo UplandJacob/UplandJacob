@@ -3,6 +3,10 @@
 | General Stats | Most Used Languages | Streak |
 | ---- | ---- | ---- |
 | [![Stats - Dark](https://github-stats-extended.vercel.app/api?username=UplandJacob&show_icons=true&theme=solarized-dark&ring_color=599&text_color=9b7&hide_title=true)](https://github.com/UplandJacob#gh-dark-mode-only)[![Stats - Light](https://github-stats-extended.vercel.app/api?username=UplandJacob&show_icons=true&ring_color=5b5b5b&hide_title=true&theme=solarized-light)](https://github.com/UplandJacob#gh-light-mode-only) | [![Most Used Stats - Dark](https://github-stats-extended.vercel.app/api/top-langs?username=UplandJacob&theme=solarized-dark&text_color=9b7&layout=compact&langs_count=10&hide_title=true)](https://github.com/UplandJacob#gh-dark-mode-only)[![Most Used Stats - Light](https://github-stats-extended.vercel.app/api/top-langs?username=UplandJacob&layout=compact&langs_count=10&hide_title=true&theme=solarized-light)](https://github.com/UplandJacob#gh-light-mode-only) | [![GitHub Streak - Dark](https://streak-stats.demolab.com/?user=UplandJacob&theme=solarized-dark&dates=9b7&ring=599&currStreakNum=599&sideNums=599)](https://git.io/streak-stats#gh-dark-mode-only)[![GitHub Streak - Light](https://streak-stats.demolab.com/?user=UplandJacob&theme=solarized-light&dates=583&ring=599&currStreakNum=599&sideNums=599)](https://git.io/streak-stats#gh-light-mode-only) |
+
+<img width="200" height="200" alt="Microsoft Office 2019 Specialist Associate" src="https://github.com/user-attachments/assets/172e96ae-b1fe-48a1-84bc-5abcecb88c99" />
+<img width="200" height="200" alt="CompTIA Tech+" src="https://github.com/user-attachments/assets/63065ff0-f259-40c0-9746-f0459cbf500f" />
+
 <!--
 
 Here are some ideas to get you started:
